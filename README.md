@@ -1,4 +1,4 @@
- <img src="https://souravdasportfolio.web.app/img/sourav.png" width="80px"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://souravdasportfolio.web.app/img/sourav.png" width="80px"/>
 
 - 👋 Hi, I’m @souravdas
 - 👀 I’m a Javascript/ ReactJS/ MERN stack Developer
