@@ -1,14 +1,10 @@
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://souravdasportfolio.web.app/img/sourav.png" width="80px"/> -->
 
 - 👋 Hi, I’m @souravdas
-- 👀 I’m a Javascript/ ReactJS/ React Native / MERN stack Developer
-- 🌱 I’m currently learning NextJS, ThreeJS
-- 📫 My portfolio: https://souravdasportfolio.web.app/
+- 👀 I’m a Javascript NextJS / ReactJS/ React Native / MERN stack Developer
+📫 My portfolio: https://souravdasportfolio.web.app/
 
-Working as full-time Full Stack Developer responsible for creating Frontend design via 
-React / React native and Backend via MERN stack. 
-Interested in devising a better problem-solving method for challenging tasks and learning 
-new technologies and tools if the need arises.
+Full Stack Software Engineer with 5+ years of experience developing enterprise software, ERP systems, payment processing solutions, web applications, and mobile applications. Experienced in ASP.NET, C#, SQL Server, React.js, React Native, Node.js, REST API development, database optimization, cloud platforms, and system integrations. Strong background in designing scalable applications, integrating third-party services, optimizing performance, and delivering secure business-critical software solutions.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravdasdip)](https://github.com/anuraghazra/github-readme-stats)
 
